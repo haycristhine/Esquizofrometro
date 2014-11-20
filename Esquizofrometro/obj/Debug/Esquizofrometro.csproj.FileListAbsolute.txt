@@ -1,0 +1,216 @@
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro.pdb
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\AppManifest.xaml
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro_Debug_AnyCPU.xap
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\App.g.cs
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\MainPage.g.cs
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.g.resources
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.Resources.AppResources.resources
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.csproj.GenerateResource.Cache
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.pdb
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\XapCacheFile.xml
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.csprojResolveAssemblyReference.cache
+C:\Users\3aimaq17\Documents\Workspace\Esquizofrometro\Esquizofrometro\obj\Debug\ResultPage.g.cs
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\ApplicationIcon.png
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro.pdb
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\AppManifest.xaml
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Properties\WMAppManifest.xml
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro_Debug_AnyCPU.xap
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.csprojResolveAssemblyReference.cache
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\App.g.cs
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\MainPage.g.cs
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\ResultPage.g.cs
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.g.resources
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.Resources.AppResources.resources
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.csproj.GenerateResource.Cache
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.dll
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.pdb
+Z:\Esquizofrometro\Esquizofrometro\obj\Debug\XapCacheFile.xml
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\ApplicationIcon.png
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro.pdb
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\AppManifest.xaml
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Properties\WMAppManifest.xml
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Esquizofrometro_Debug_AnyCPU.xap
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\App.g.cs
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\MainPage.g.cs
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\ResultPage.g.cs
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.g.resources
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.Resources.AppResources.resources
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.csproj.GenerateResource.Cache
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.dll
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\Esquizofrometro.pdb
+D:\Workspace\C#\Windows Phone\Esquizofrometro\Esquizofrometro\obj\Debug\XapCacheFile.xml
